@@ -20,6 +20,16 @@
 
 [ДЗ 10 - Пользователи и группы. Авторизация и аутентификация]
 
+[ДЗ 12 - Selinux]
+
+[ДЗ 13 - Сбор и анализ логов]
+
+[ДЗ 14 - Резервное копирование]
+
+[ДЗ 15 - Docker]
+
+[ДЗ 16 - Архитектура сетей]
+
 Остальные ДЗ в работе.
 
 
@@ -33,3 +43,8 @@
 [ДЗ 8 - Инициализация системы. Systemd и SysV]:https://github.com/staybox/otus_dz8
 [ДЗ 9 - Автоматизация администрирования. Ansible]:https://github.com/staybox/otus_dz9
 [ДЗ 10 - Пользователи и группы. Авторизация и аутентификация]:https://github.com/staybox/otus_dz10
+[ДЗ 12 - Selinux]:https://github.com/staybox/otus_dz12
+[ДЗ 13 - Сбор и анализ логов]:https://github.com/staybox/otus_dz13
+[ДЗ 14 - Резервное копирование]:https://github.com/staybox/otus_dz14
+[ДЗ 15 - Docker]:https://github.com/staybox/otus_dz15
+[ДЗ 16 - Архитектура сетей]:https://github.com/staybox/otus_dz16
